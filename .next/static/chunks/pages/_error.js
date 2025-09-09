@@ -1,0 +1,8 @@
+__turbopack_load_page_chunks__("/_error", [
+  "static/chunks/[root-of-the-server]__100ac60e._.js",
+  "static/chunks/cc21f_react-dom_3a63bbc5._.js",
+  "static/chunks/cc21f_1b7b9d29._.js",
+  "static/chunks/[root-of-the-server]__58117e84._.js",
+  "static/chunks/ALX_SE_alx-listing-app-03_pages__error_2da965e7._.js",
+  "static/chunks/turbopack-ALX_SE_alx-listing-app-03_pages__error_9c7113df._.js"
+])
